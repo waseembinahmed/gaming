@@ -63,7 +63,7 @@
 
 **Roms (Console Specific)**
 
-* [PS1 Collection](https://tinyurl.com/y29wdtmq), [2](https://tinyurl.com/y3gc8z48) - (Roms, PS1, Huge Library, DDL)
+* [PS1 Collection](https://tinyurl.com/y29wdtmq), [Collection 2](https://tinyurl.com/y3gc8z48) - (Roms, PS1, Huge Library, DDL)
 * [PS2 Collection](https://tinyurl.com/lxolo7e), [Part 2](https://tinyurl.com/y5wcm6l3) - (Roms, PS2, Huge Library, DDL)
 * [PS3 Iso](https://tinyurl.com/y68ktfvo) - (Roms, PS3, Medium Library, DDL)
 * [CPY PS4](https://tinyurl.com/y5vsdpeh) - (Roms, PS4, Medium Library, DLL & Torrents)
@@ -81,13 +81,13 @@
 * [Ziperto](https://tinyurl.com/y98r5au6) - (Roms, Nintendo/PSNConsoles, Big Library, DDL)
 * [3DS CIA](https://tinyurl.com/y92grpl7) - (Roms, 3DS, Big Library, DDL)
 * [3DSIso](https://tinyurl.com/y4hsxunv) - (Roms, 3DS, Big Library, DDL)
-* [SNES Collection](https://tinyurl.com/y6d98l75) - (Roms, SNES, Huge Library, DDL)
-* [Dreamcast  Collection](https://tinyurl.com/yybcdjnm) - (Roms, Dreamcast, Medium Library, DDL)
-* [Sega Saturn Collection](https://tinyurl.com/zhlmxst), [2](https://tinyurl.com/yyldrs56) - (Roms, Sega Saturn, Big Library, DDL)
-* [Sega MegaDrive Collection](https://tinyurl.com/y6jt8t82) - (Roms, Sega MegaDrive, Big Library, DDL)
-* [Neo Geo Collection](https://tinyurl.com/y2egjqz6), [2](https://tinyurl.com/y2egjqz6) - (Roms, Neo Geo, Small Library, DDL)
 * [3DS Iso](https://tinyurl.com/y42d449y) - (Roms, 3DS, Medium Library, DDL)
 * [3DO Roms](https://tinyurl.com/yct36r3h) - (Roms, 3DO, Small Library, DDL)
+* [SNES Collection](https://tinyurl.com/y6d98l75) - (Roms, SNES, Huge Library, DDL)
+* [Dreamcast  Collection](https://tinyurl.com/yybcdjnm) - (Roms, Dreamcast, Medium Library, DDL)
+* [Sega Saturn Collection](https://tinyurl.com/zhlmxst), [Collection 2](https://tinyurl.com/yyldrs56) - (Roms, Sega Saturn, Big Library, DDL)
+* [Sega MegaDrive Collection](https://tinyurl.com/y6jt8t82) - (Roms, Sega MegaDrive, Big Library, DDL)
+* [Neo Geo Collection](https://tinyurl.com/y2egjqz6), [2](https://tinyurl.com/y2egjqz6) - (Roms, Neo Geo, Small Library, DDL)
 * [Pokemon Log](https://tinyurl.com/yx9uuka2) - (Roms, Pokemon Games, Medium Library, DDL)
 
 **Arcade/Retro**
