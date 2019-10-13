@@ -23,6 +23,7 @@
 * [GamesTorrents](https://tinyurl.com/y2te47fa) - (PC, Small Library, Torrents)
 * [IGG](https://tinyurl.com/y3kdrxyp) - (PC, Huge Library, DDL)
 * [DarkUmbra](https://tinyurl.com/y2phc3qg) - (PC, Huge Library, DDL)
+* [SoftArchive Games](https://tinyurl.com/yy3m9nrg) - (PC, Huge Library, DDL)
 * [CS.RIN](https://tinyurl.com/y3f398uy) - (PC, Huge Library, DDL)
 * [KaOs](https://tinyurl.com/yy3upa5r) - (PC, Huge Library, DDL)
 * [NitroBlog](https://tinyurl.com/y22965z7) - (PC, Huge Library, DDL)
