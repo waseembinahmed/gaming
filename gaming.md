@@ -137,3 +137,5 @@
 * [**Grouvee**](https://tinyurl.com/yyt4orc4) - (Video Game Database/Tracker)
 * **r/CrackWatch** - (Latest game crack updates)
 * [NoPayStation](https://tinyurl.com/yy77g2pb) - (Database for PSN content)
+* Backup - [GitHub](https://tinyurl.com/yy8gpgob)
+* [Shortlinks]() - (Easily Share/Save Post) 
