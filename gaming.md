@@ -81,7 +81,6 @@
 * [DSi Collection](https://tinyurl.com/y69jaq2t) - (Roms, DSi, Small Library, DDL) + [DSi DLC](https://tinyurl.com/y4hxeon7)
 * [3DS CIA](https://tinyurl.com/y92grpl7) - (Roms, 3DS, Big Library, DDL)
 * [3DSIso](https://tinyurl.com/y4hsxunv) - (Roms, 3DS, Big Library, DDL)
-* [3DS Iso](https://tinyurl.com/y42d449y) - (Roms, 3DS, Medium Library, DDL)
 * [3DO Roms](https://tinyurl.com/yct36r3h) - (Roms, 3DO, Small Library, DDL)
 * [SNES Collection](https://tinyurl.com/y6d98l75) - (Roms, SNES, Huge Library, DDL)
 * [Dreamcast  Collection](https://tinyurl.com/yybcdjnm) - (Roms, Dreamcast, Medium Library, DDL)
