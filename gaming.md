@@ -8,7 +8,7 @@
 * **Important** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting. 
 * [**FitGirl**](https://tinyurl.com/h6e7wye) - (PC, Huge Library, DDL & Torrents)
 * [**Xatab**](https://tinyurl.com/y58mjdw2) - (PC, Huge Library, Torrents)
-* [**RG-Mechanics**](https://tinyurl.com/yy2pxng2) or [RGMechanics](https://tinyurl.com/y64een9v) - (PC, Huge Library, DDL & Torrents)
+* [**RGMechanics**](https://tinyurl.com/y64een9v) or [RG-Mechanics](https://tinyurl.com/yy2pxng2) - (PC, Huge Library, DDL & Torrents)
 * [**Public Trackers**](https://tinyurl.com/y2rfhvsy) - (PC/Mac, Huge Libraries, Torrents)
 * [ElAmigo](https://tinyurl.com/y2cz9azw) - (PC, Big Library, DDL & Torrents)
 * [WorldSRC](https://tinyurl.com/yyg6a7o5) - (PC, Big Library, DDL & Torrents)
