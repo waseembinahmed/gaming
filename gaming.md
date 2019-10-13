@@ -116,7 +116,6 @@
 * [APKPure](https://tinyurl.com/y5wf54w8)  - (Android, Huge Library, DDL)
 * [APK4Fun](https://tinyurl.com/y48mr9kv) - (Android, Huge Library, DDL)
 * [APKBucket](https://tinyurl.com/y3avbdmb) - (Android, Huge Library, DDL)
-* [ApkDMod](https://tinyurl.com/y45gvf5p) - (Android, Huge Library, DDL)
 * [APKMirror](https://tinyurl.com/h4gn78s) - (Android, Huge Library, DDL)
 * [Apkmb](https://tinyurl.com/y5oegpyg) - (Android, Huge Library, DDL)
 * [AppCake](https://tinyurl.com/lrpl7mj) - (Android, Huge Library, DDL)
@@ -124,7 +123,8 @@
 * [APKTurbo](https://tinyurl.com/y5s2ad83) - (Android, Huge Library, DDL)
 * [APKFree](https://tinyurl.com/yxs48zpz) - (Android, Huge Library, DDL)
 * [APK-DL](https://tinyurl.com/y6dzdb8x) - (Android, Huge Library, DDL)
-* [ModsAPK](https://tinyurl.com/yyh2s2mt) - (APK Mods, Huge Library, DDL)
+* [ModsAPK](https://tinyurl.com/yyh2s2mt) - (APK Mods, Big Library, DDL)
+* [ApkDMod](https://tinyurl.com/y45gvf5p) - (APK Mods, Big Library, DDL)
 * [DarkUmbra](https://tinyurl.com/y2phc3qg) - (Android, Medium Library, DDL)
 
 **Browser**
