@@ -35,7 +35,7 @@
 * [Macintosh Garden](https://tinyurl.com/ml37l5) - (Mac, Medium Library, DDL)
 * [MacGameFiles](https://tinyurl.com/y6f5lsn3) - (Mac, Big Library, DDL)
 
-**Emulation**
+**Emulators/Roms**
 
 * [**PlanetEmu**](https://tinyurl.com/294hy) - (Emulators, Most Consoles, Big Library, DDL, News)
 * [**RomCenter**](https://tinyurl.com/y2vy7ur3) - (Roms, All Consoles, Huge Library, DDL)
@@ -60,6 +60,9 @@
 * [RomStorage](https://tinyurl.com/ycslkrob) - (Roms, Most Consoles, Huge Library, DDL)
 * [Roms43](http://roms43.com/) - (Roms, Emulators, Most Consoles, Medium Library, DDL)
 * [Garoms](https://tinyurl.com/y32zkm5v) - (Roms, Emulators, GBA, N64, DS, SNES, Medium Library, DDL)
+
+**Roms (Console Specific)**
+
 * [PS1 Collection](https://tinyurl.com/y29wdtmq), [2](https://tinyurl.com/y3gc8z48) - (Roms, PS1, Huge Library, DDL)
 * [PS2 Collection](https://tinyurl.com/lxolo7e), [Part 2](https://tinyurl.com/y5wcm6l3) - (Roms, PS2, Huge Library, DDL)
 * [PS3 Iso](https://tinyurl.com/y68ktfvo) - (Roms, PS3, Medium Library, DDL)
@@ -138,4 +141,4 @@
 * **r/CrackWatch** - (Latest game crack updates)
 * [NoPayStation](https://tinyurl.com/yy77g2pb) - (Database for PSN content)
 * Backup - [GitHub](https://tinyurl.com/yy8gpgob)
-* [Shortlinks]() - (Easily Share/Save Post) 
+* [Shortlinks](https://tinyurl.com/y2ge8h48) - (Easily Share/Save Post)
