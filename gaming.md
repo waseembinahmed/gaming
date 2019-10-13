@@ -61,7 +61,7 @@
 * [Roms43](http://roms43.com/) - (Roms, Emulators, Most Consoles, Medium Library, DDL)
 * [Garoms](https://tinyurl.com/y32zkm5v) - (Roms, Emulators, GBA, N64, DS, SNES, Medium Library, DDL)
 * [Emulanium](https://tinyurl.com/yxnycry5) - (Roms, Nintendo, Sony, Sega, Big Library, DDL)
-* [Ziperto](https://tinyurl.com/y98r5au6) - (Roms, Nintendo/PSNConsoles, Big Library, DDL)
+* [Ziperto](https://tinyurl.com/y98r5au6) - (Roms, Nintendo/Sony Consoles, Big Library, DDL)
 
 **Roms (Console Specific)**
 
