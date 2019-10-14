@@ -77,6 +77,7 @@
 * [Wiiu Iso](https://tinyurl.com/y6q3clhg) - (Roms, Wiiu, Medium Library, DDL)
 * [WiiWare Collection](https://tinyurl.com/yaxc2n4w) - (Roms, WiiWare, Big Library, DDL)
 * r/SwitchNSPs - (Roms, Nintendo Switch, Medium Library, DDL)
+* /r/SwitchPirates - (Switch hacking forum/guides)
 * [Gamecube Collection](https://tinyurl.com/y2zccvpy), [Collection 2](https://tinyurl.com/yxtucw3r), [Part 2](https://tinyurl.com/y6gdxmtf), [Part 3](https://tinyurl.com/y2n3zzcp) - (Roms, Gamecube, Big Library, DDL) 
 * [Gameboy Collection](https://tinyurl.com/y2c2hbpx) - (Roms, Gameboy, Huge Library, DDL)
 * [DS Collection](https://tinyurl.com/y6khvlt9) - (Roms, DS, Huge Library, DDL)
