@@ -1,6 +1,7 @@
 * **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
 * [Movies, TV, Anime & Sports](https://redd.it/a2csq0)
 * [Books, Comics, Manga & Magazines](https://redd.it/cveubp)
+* [Music, Podcasts & Radio](https://redd.it/dhw2lh)
 * [Suggest Sites/Changelog](https://redd.it/ccrmsv) 
 
 **PC**
