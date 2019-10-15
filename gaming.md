@@ -11,7 +11,6 @@
 * [**Xatab**](https://tinyurl.com/y58mjdw2) - (PC, Huge Library, Torrents)
 * [**RGMechanics**](https://tinyurl.com/y64een9v) or [RG-Mechanics](https://tinyurl.com/yy2pxng2) - (PC, Huge Library, DDL & Torrents)
 * [**Public Trackers**](https://tinyurl.com/y2rfhvsy) - (PC/Mac, Huge Libraries, Torrents)
-* [**Game Copy World**](https://tinyurl.com/y5g656he) - (Patches/Updates for PC games)
 * [ElAmigo](https://tinyurl.com/y2cz9azw) - (PC, Big Library, DDL & Torrents)
 * [WorldSRC](https://tinyurl.com/yyg6a7o5) - (PC, Big Library, DDL & Torrents)
 * [Skidrow & Reloaded](https://tinyurl.com/nk2gvpc) - (PC, Huge Library, DDL & Torrents)
